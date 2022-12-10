@@ -1,0 +1,69 @@
+# Blender MTL File: 'Naruto.blend'
+# Material Count: 6
+
+newmtl aura_rim.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd 9bi_aura_01.png
+map_d aura_rim.png
+map_Ke aura_rim.png
+
+newmtl makimono_01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd makimono_01.png
+map_Ks makimono_01.png
+
+newmtl nr9_eye.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nr9_eye.png
+map_Ks nr9_eye.png
+
+newmtl nr9_tex01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nr9_tex01.png
+map_Ks nr9_tex01.png
+
+newmtl nr9_tex02.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nr9_tex02.png
+map_Ks nr9_tex02.png
+
+newmtl nr9_tex03.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nr9_tex03.png
+map_Ks nr9_tex03.png
